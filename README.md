@@ -1,3 +1,3 @@
 # vue-router-webpack-template
 Vue routing simple template。
-Download file after the 'CNPM install' the project need to load the file。
+Cloning project to the local first, and then through "npm install" loading projects need to rely on file.
