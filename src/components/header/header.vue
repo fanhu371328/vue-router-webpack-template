@@ -12,12 +12,17 @@ export default {
   name: 'header', 
   components: {
     
+  },
+  props:{
+  	seller:{
+  	
+  	}
   }
 }
 </script>
 
-<!--<style lang="stylus" rel="stylesheet/stylus">
+<style lang="stylus" rel="stylesheet/stylus">
 
 
 
-</style>-->
+</style>
